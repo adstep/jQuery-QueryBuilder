@@ -42,6 +42,7 @@
     "type": "git",
     "url": "git://github.com/mistic100/jQuery-QueryBuilder.git"
   },
+  "main": "./dist/js/query-builder.js",
   "bugs": {
     "url": "https://github.com/mistic100/jQuery-QueryBuilder/issues"
   },
